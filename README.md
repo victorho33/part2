@@ -2,9 +2,9 @@
 
 How to start the Web Application
 
- npm cache clean
- npm install
- npm run dev
+ npm cache clean <br>
+ npm install <br>
+ npm run dev <br>
 
 Open web browser with URL : http://localhost:3000
 
