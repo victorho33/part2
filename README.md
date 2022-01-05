@@ -2,7 +2,7 @@
 
 How to start the Web Application
 
- > cd vue-spa-app
+ > cd vue-spa-app <br>
  > npm cache clean <br>
  > npm install <br>
  > npm run dev <br>
