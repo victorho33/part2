@@ -1,6 +1,7 @@
 # part2
 
-How to start the Web Application
+After downloading the source, assume you have npm installed.
+To start the Web Application
 
  > cd vue-spa-app <br>
  > npm install <br>
